@@ -1,5 +1,15 @@
 ## Welcome to LogicalBee 
 
+<p class="masthead-links">
+      <a href="https://github.com/mdo/code-guide">
+        <span class="icon icon-github-circled"></span>
+      </a>
+      <a href="https://twitter.com/mdo">
+        <span class="icon icon-twitter"></span>
+      </a>
+    </p>
+
+
 You can use the [editor on GitHub](https://github.com/justsushanth/logicalbee/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 
