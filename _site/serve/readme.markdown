@@ -1,1 +1,0 @@
-# Jared Wright's website
