@@ -1,1 +1,15 @@
-theme: jekyll-theme-cayman
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+title : Logical Bee
+production_url : http://logicalbee.github.io
+description: "Student, hacker, programmer, Jared Wright."
+disqus_shortname: 
+analytics: 
+author :
+  name : Sushanth Kurdekar
+  github : logicalbee
+  twitter : 
+  email: sushanth.uk@gmail.com
