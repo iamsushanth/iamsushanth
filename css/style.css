@@ -389,5 +389,5 @@ footer p {
   display: block;
   max-width: 250px;
   margin: 0 auto 30px;
-/*  border-radius: 50%;*/
+  border-radius: 50%;
 }
