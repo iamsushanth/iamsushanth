@@ -362,4 +362,25 @@ a:hover {
   clear: both;
 }
 
+/********************
+FOOTER
+********************/
+
+footer {
+  font-family: 'Lora', serif;
+  font-size: 1.1em;
+  text-align: center;
+  padding-top: 40px;
+  color: #ccc;
+}
+
+footer p {
+  margin: 10px 0;
+}
+
+.social-icon {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+}
 
