@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-sushanthkurdekar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushanthkurdekar//)](https://www.linkedin.com/in/sushanthkurdekar/)
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9tyRI1L7Ag97i0DZbUX5Dg?style=social)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=iamsushanth&show_icons=true&count_private=true&hide_title=true)
 <!--
 **tristankrass/tristankrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
