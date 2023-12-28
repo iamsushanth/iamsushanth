@@ -5,6 +5,39 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9tyRI1L7Ag97i0DZbUX5Dg?style=social)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=iamsushanth&show_icons=true&count_private=true&hide_title=true)
+
+## Who am I?
+```
+class WhoAmI:
+
+   name = 'Sushanth Kurdekar'
+   current_job = "Project Engineer at C-DAC"
+
+   hobbies = [
+       "Programming",
+       "Content creation",
+       "Listening to podcasts about business and entrepreneurship",
+       "Coping with humor, and excesive formality"]
+   
+   def getLocation():
+       return "Bengaluru"
+   
+   def Ambitions():
+       return ["Start work, entrepreneurship early, and excel in life :)",
+           "Find a way to utilize scriptting, and generate passive income",
+           "Idk, just be the best version of me, and live life happily :)"]
+
+   def Socials(): #TODO: Prevent function from being called from OSINT class
+       return {
+   	"Youtube": "@logicalbee",
+   	"Instagram": "@logicalbee",
+   	"Telegram": "@logicalbee",
+   	"E-Mail": "sushanth@logicalbee.in", #All things from saying hi, to interviews, to asking to collab, to business inquiries :)
+   	}
+   	
+  
+   ```
+
 <!--
 **tristankrass/tristankrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
