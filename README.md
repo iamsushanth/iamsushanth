@@ -7,7 +7,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=iamsushanth&show_icons=true&count_private=true&hide_title=true)
 
 ## Who am I?
-```
+```python
 class WhoAmI:
 
    name = 'Sushanth Kurdekar'
