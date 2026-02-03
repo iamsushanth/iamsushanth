@@ -29,17 +29,17 @@ class WhoAmI:
 
    def Socials(): #TODO: Prevent function from being called from OSINT class
        return {
-   	"Youtube": "@logicalbee",
-   	"Instagram": "@logicalbee",
-   	"Telegram": "@logicalbee",
-   	"E-Mail": "sushanth@logicalbee.in", #All things from saying hi, to interviews, to asking to collab, to business inquiries :)
-   	}
+           "Youtube": "@logicalbee",
+   	     "Instagram": "@logicalbee",
+   	     "Telegram": "@logicalbee",
+   	     "E-Mail": "sushanth@logicalbee.in", #All things from saying hi, to interviews, to asking to collab, to business inquiries :)
+       }
    	
   
    ```
 
 <!--
-**tristankrass/tristankrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
