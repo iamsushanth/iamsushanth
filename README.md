@@ -11,7 +11,7 @@
 class WhoAmI:
 
    name = 'Sushanth Kurdekar'
-   current_job = "Project Engineer at C-DAC"
+   current_job = "Software Engineer at C-DAC"
 
    hobbies = [
        "Programming",
